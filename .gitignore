@@ -1,4 +1,6 @@
-/llm02-00
+/llm02-00/
+/llm02-00/Scripts/
+/llm02-00/pyvenv.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
